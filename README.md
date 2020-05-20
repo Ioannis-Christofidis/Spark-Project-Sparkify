@@ -3,11 +3,16 @@
 ## Packages
 
 We use for this project a Jupyter Notebook with python 3. The libraries used for this project are:
-1)numpy
-2)pandas 
-3)seaborn
-4)pyspark
-5)matplotlib
+<br>
+numpy
+<br>
+pandas 
+<br>
+seaborn
+<br>
+pyspark
+<br>
+matplotlib
 
 ## Purpose of this project
 
