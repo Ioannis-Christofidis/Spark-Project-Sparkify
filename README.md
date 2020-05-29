@@ -17,6 +17,9 @@ matplotlib
 ## Purpose of this project
 
  In this project, a Music streaming company wants to predict their customer/user churn rate (customers cancel confirmation events). I used Python and Spark for Big Data on the jupyter notebook.
+ 
+## Blog of this prject
+[I'm an inline-style link](https://medium.com/@johnchristofidis/prediction-of-churn-rates-by-a-music-company-514a02e32974)
 
 ## File  decription
 
